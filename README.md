@@ -13,8 +13,8 @@ Các bước thực hiện:
 -   Làm sạch dữ liệu và trích xuất đặc trưng
 -   Mô hình baseline (Random Forest, XGBoost)
 -   SSL:
-  - **Pseudo-Labeling**
-  - **Label Spreading** (dựa trên đồ thị)
+    - **Pseudo-Labeling**
+    - **Label Spreading** (dựa trên đồ thị)
 
 ---
 
