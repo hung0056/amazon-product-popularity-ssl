@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ---
 ## Chạy trên Google Colab
 
-[![Mở trên Colab](https://colab.research.google.com/drive/11sGiDqws4oU6OUcIEhGyCVaHYgY14Egg?usp=sharing)]
+[![Mở trên Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11sGiDqws4oU6OUcIEhGyCVaHYgY14Egg?usp=sharing)
 
 ---
 
